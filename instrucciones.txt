@@ -4,3 +4,6 @@ tarea:
 hacer un proyecto entre todos en donde cada quién suba una parte de una animación
 al final la animación la debo descargar y el proyecto debe abrirse localmente sin 
 problemas.
+
+
+lo que sea
